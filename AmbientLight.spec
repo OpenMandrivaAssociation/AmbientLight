@@ -1,7 +1,7 @@
 Name:		AmbientLight
 Summary:	Ambient light controller, primarily for Plasma Mobile
 Version:	0.0.1
-Release:	1
+Release:	2
 License:	GPLv3
 Source0:	https://github.com/OpenMandrivaSoftware/AmbientLight/archive/refs/tags/%{version}.tar.gz
 BuildRequires:	cmake(Qt5Core)
